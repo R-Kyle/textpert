@@ -1,0 +1,22 @@
+.navdesign{
+
+  padding: 5px;
+  box-shadow: 5px 10px #888888;
+}
+.textbolder{
+	font-weight: bolder;
+}
+
+.btnsignup{
+	background: #ff340c;
+	color: white;
+}
+.btnsignup:hover{
+	background: black;
+	color: white;
+}
+
+.searchbar{
+	border:solid 2px;
+	background: #c8e3ff;
+}
